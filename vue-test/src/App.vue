@@ -15,7 +15,8 @@ import ReactivityTransform from './components/ReactivityTransform.vue'
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
-  <ReactivityTransform></ReactivityTransform>
+  <HelloWorld msg="Vite + Vue" />
+  <!-- <ReactivityTransform></ReactivityTransform> -->
 </template>
 
 <style scoped>

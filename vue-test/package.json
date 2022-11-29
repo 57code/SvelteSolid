@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@vue/reactivity-transform": "^3.2.38",
+    "pinia": "^2.0.27",
     "vue": "^3.2.37"
   },
   "devDependencies": {
